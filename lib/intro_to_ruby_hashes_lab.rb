@@ -3,10 +3,9 @@ def new_hash
 end
 
 def my_hash
-  my_hash = {
-    :message => "Hello"
-    :title => "World"
-  }
+  my_hash = {}
+  my_hash[:message] = "Hello"
+  my_hash[:title] = "World"
 end
 
 def pioneer
