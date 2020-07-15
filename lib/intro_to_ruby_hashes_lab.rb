@@ -2,8 +2,7 @@ def new_hash
   new_hash = {}
 end
 
-def my_hash
-  hash = {
+def my_hash = {
     :message => "Hello"
     :title => "World"
   }
