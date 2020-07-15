@@ -5,7 +5,6 @@ end
 def my_hash
   my_hash = {}
   my_hash[:message] = "Hello"
-  my_hash[:title] = "World"
 end
 
 def pioneer
