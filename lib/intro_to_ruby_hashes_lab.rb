@@ -1,6 +1,4 @@
-def new_hash = {
-hash.new  
-}
+def new_hash = {}}
 end
 
 def my_hash
